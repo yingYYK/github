@@ -13,3 +13,11 @@
 5. 新增指令后 再次进行提交
 
    reflog 
+
+6. 远程仓库设置
+
+7. 内容更新  要再次进行 git add -A  commit
+
+   在 push
+
+   push  
